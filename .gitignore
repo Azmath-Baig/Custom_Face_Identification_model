@@ -1,0 +1,5 @@
+# Git ignore rules 
+*.keras
+*.h5
+*.ipynb_checkpoints/
+
